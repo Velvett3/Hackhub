@@ -25,3 +25,7 @@ replay_pid*
 
 #MacOS System files
 .DS_Store
+
+#Visual Paradigm backup files
+*.vpp.bak
+*.vpp.bak_*
